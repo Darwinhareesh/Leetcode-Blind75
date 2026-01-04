@@ -1,7 +1,7 @@
 ## ✅ Blind 75 Progress Tracker
 
 ### Arrays
-- [https://github.com/Darwinhareesh/Leetcode-Blind75/blob/main/Group%20Anagrams.py ] Two Sum
+- [ ] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
