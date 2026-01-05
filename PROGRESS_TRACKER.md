@@ -9,7 +9,7 @@ Tick the checkbox once you **fully understand the logic and solution** (not just
 
 ## 🧮 Arrays (10)
 
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
@@ -25,7 +25,7 @@ Tick the checkbox once you **fully understand the logic and solution** (not just
 ## 🔤 Strings (5)
 
 - [ ] Valid Anagram
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [ ] Valid Parentheses
 - [ ] Longest Palindromic Substring
 - [ ] Longest Substring Without Repeating Characters
