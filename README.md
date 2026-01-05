@@ -48,25 +48,6 @@ It covers all **core data structures and algorithms**.
 
 ---
 
-Blind75/
-│
-├── Arrays/
-│ ├── Two Sum.md
-│ ├── Best Time to Buy and Sell Stock.md
-│
-├── LinkedList/
-│ ├── Reverse Linked List.md
-│
-├── Trees/
-│ ├── Maximum Depth of Binary Tree.md
-│
-├── DynamicProgramming/
-│ ├── Climbing Stairs.md
-│
-├── PROGRESS_TRACKER.md
-└── README.md
-
-
 Each problem file contains:
 - 🔍 Intuition
 - 🧠 Key Observations
